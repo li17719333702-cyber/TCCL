@@ -115,7 +115,6 @@ TCCL/
 │   ├── baselines/          # Implementation of baseline methods
 │   └── tccl_model.py       # TCCL core model
 ├── utils/                  # Utility functions (metrics, visualization)
-├── figures/                # Paper figures and LaTeX templates
 ├── single_tccl.py          # Standalone implementation
 ├── benchmark.py            # Main benchmarking script
 ├── visualize_dataset.py    # Data visualization tools
@@ -139,3 +138,4 @@ If you find this work useful for your research, please cite our paper:
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
